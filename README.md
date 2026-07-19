@@ -107,7 +107,7 @@
 
 <div align="center">
   <h2 style="font-family: 'Georgia', serif; font-style: italic; color: #ffffff; letter-spacing: 1px;">
-    <h3><i>"The best way to predict the future is to create it on the chessboard"."</i></h3>
+    <h3><i>"The best way to predict the future is to create it on the chessboard".</i></h3>
   </h2>
   
   <br />
