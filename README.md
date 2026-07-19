@@ -10,7 +10,7 @@
 <div align="center">
   <br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=700&lines=BTECH+CSE+STUDENT;GAMER;PROBLEM+SOLVING+WITH+CUT-EDGE+SOLUTIONS;SPECIALISATION+IN+AI+ML;+CODER+IN+C+PYTHON+JAVA;GYM-RAT;HOLY+CINEPHILE;BIG+FOODY;UNFANTHOMABLE+SOMETIMES+CRYPTIC;THRILL+SEEKER;MELOMANIAC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=700&lines=BTECH+CSE+STUDENT;GAMER;PROBLEM+SOLVING+WITH+CUT-EDGE+SOLUTIONS;SPECIALISATION+IN+AI+ML;+CODING+IN+C+PYTHON+JAVA;GYM-RAT;HOLY+CINEPHILE;BIG+FOODY;UNFANTHOMABLE+SOMETIMES+CRYPTIC;THRILL+SEEKER;MELOMANIAC" alt="Typing SVG" />
   </a>
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
   <h3>🛠️ TECH Arsenal</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,react,nodejs,express,mongodb,vscode&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,Gemini,nodejs,STL,mongodb,vscode&perline=12&theme=dark" />
 </div>
 
 <div align="center">
