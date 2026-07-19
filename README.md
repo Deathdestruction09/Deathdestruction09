@@ -75,7 +75,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iprsnmsra&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Deathdestruction09&theme=solarized-light&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
 
 <br />
