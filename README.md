@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  System Online: Hey, what's up? I'm <a href="https://github.com/iprsnmsra" style="color: #39FF14; text-decoration: none;">Rakshit Raj</a>
+  System Online: Hey, what's up? I'm <a href="https://github.com/iprsnmsra" style="color: #39FF14; text-decoration: underline wavy;">Rakshit Raj</a>
 </h1>
 
 <div align="center">
