@@ -59,16 +59,6 @@
 
 <br />
 
-<div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px; border: 1px solid #39FF14; box-shadow: 0px 0px 20px rgba(57, 255, 20, 0.15);">
-  <h3 style="color: #39FF14;">🎮 THE MATRIX DECRYPTER</h3>
-  <p><i> Click the terminal to bypass the firewall.</i></p>
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=39FF14&background=000000&center=true&vCenter=true&width=600&height=100&lines=>_INITIATING_BREACH...;>_BYPASSING_MAINFRAME...;>_ACCESS_GRANTED_[CLICK_TO_PLAY]" alt="Hacker Terminal" style="border: 1px solid #30363d; border-radius: 5px;" />
-  </a>
-  <br/><br/>
-  <a href="https://matrix-decrypter.vercel.app/"><img src="https://img.shields.io/badge/▶%20EXECUTE%20GAME.EXE-39FF14?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=000000" alt="Play Game"></a>
-</div>
-
 <br />
 
 <div align="center">
@@ -89,6 +79,14 @@
 </div>
 
 <br />
+
+<div align="center">
+  <h3>🎮 PLAY MY MINI GAME</h3>
+  <a href="https://Deathdestruction09.github.io/cyber-click-game/" target="_blank">
+    <img src="https://img.shields.io/badge/-Launch%20Cyber%20Game-39FF14?style=for-the-badge&logo=ghost&logoColor=black" alt="Launch Cyber Game" />
+  </a>
+  <p><i>Click in if you dare.</i></p>
+</div>
 
 <br />
 
