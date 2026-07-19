@@ -34,21 +34,13 @@
 </td>
 
 <td width="50%" valign="top" style="border: none;">
-
-### 🎮 `class Game_Dev`
-> *Crafting worlds, stories, & aesthetic.*
-
-* **Engine:** Unity, Unreal Engine, Blender
-* **Superpower:** Storytelling & Game Production
-* **Current Patch:** Learning Advanced Animation ⚙️
-* **Scripting:** C# & C++
-
+  
 <br />
 
 ### 🏋️ `Physical_State.log`
-* **Status:** 🟢 **Bulking Phase**
-* **Objective:** Dream Physique Acquisition
-* **Daily Routine:** Code > Iron > Create > Repeat
+* **Status:** 🟢 ** Phase**
+* **Objective:** Live a good life
+* **Daily Routine:** Classes > Calorie > Create > Repeat
 
 </td>
 </tr>
