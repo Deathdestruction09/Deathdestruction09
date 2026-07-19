@@ -64,7 +64,7 @@
 <div align="center">
   <h3>🏙️ SYSTEM ARCHITECTURE: 3D COMMIT CITY</h3>
   <p><i> My code contributions rendered as an isometric voxel world.</i></p>
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution City" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(57, 255, 20, 0.2);" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(57, 255, 20, 0.2);" />
 </div>
 
 <br />
