@@ -10,7 +10,7 @@
 <div align="center">
   <br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=700&lines=BTECH+CSE+STUDENT;GAMER;PROBLEM+SOLVING+WITH+CUT-EDGE+SOLUTIONS;SPECIALISATION+IN+AI+ML;+CODER+IN+C+PYTHON+JAVA;GYM-RAT;HOLY+CINEPHILE;BIG+FOODY;UNFANTHOMABLE+SOMETIMES+CRYPTIC+THRILL+SEEKER;MELOMANIAC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=700&lines=BTECH+CSE+STUDENT;GAMER;PROBLEM+SOLVING+WITH+CUT-EDGE+SOLUTIONS;SPECIALISATION+IN+AI+ML;+CODER+IN+C+PYTHON+JAVA;GYM-RAT;HOLY+CINEPHILE;BIG+FOODY;UNFANTHOMABLE+SOMETIMES+CRYPTIC;THRILL+SEEKER;MELOMANIAC" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,10 +26,10 @@
 ### 👨‍💻 `<SourceCode />`
 > *Architecting software & systems.*
 
-* **Core Intelligence:** DSA, Operating Systems
-* **Main Languages:** C++, Java, Python
+* **Core Intelligence:** MATHEMATICS,DSA,DATA SCIENCE
+* **Main Languages:** C++,C,Java, Python
 * **Web Stack:** Full Stack (React + Node + Hosting)
-* **Current Grind:** LeetCode & HackerRank Problem Solving
+* **Basic Grind:** LeetCode & Codeforces Problem 
 
 </td>
 
