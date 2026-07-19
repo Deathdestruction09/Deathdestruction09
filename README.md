@@ -98,8 +98,8 @@
 <td width="50%" valign="top" style="border: none;">
 
 ### <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
-- [Watchlist One](https://www.youtube.com/playlist?list=PLRXQynGd6yOydVO5gP6_4NdgEXM0FV-rv)
-- [Watchlist Two](https://www.youtube.com/playlist?list=PLRXQynGd6yOz2ZGiQIj61EsVwCm1SvbdD)
+- [Playlist One](https://www.youtube.com/playlist?list=PLRXQynGd6yOydVO5gP6_4NdgEXM0FV-rv)
+- [Playlist Two](https://www.youtube.com/playlist?list=PLRXQynGd6yOz2ZGiQIj61EsVwCm1SvbdD)
 
 </td>
 </tr>
