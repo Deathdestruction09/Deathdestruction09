@@ -4,13 +4,13 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  System Online: Hey, what's up? I'm <a href="https://github.com/iprsnmsra" style="color: #39FF14; text-decoration: underline wavy;">Rakshit Raj</a>
+  System Online: Sup? I'm <a href="https://github.com/iprsnmsra" style="color: #39FF14; text-decoration: underline wavy;">Rakshit Raj</a>
 </h1>
 
 <div align="center">
   <br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=700&lines=BTECH+CSE+STUDENT;PROBLEM+SOLVING+WITH+CUT-EDGE+SOLUTIONS;SPECIALISATION+IN+AI+&+ML;+CODING+IN+C+PYTHON+JAVA;BULKING+%7C+BLENDER+ARTIST+%7C+CREATOR" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=700&lines=BTECH+CSE+STUDENT;PROBLEM+SOLVING+WITH+CUT-EDGE+SOLUTIONS;SPECIALISATION+IN+AI+ML;+CODING+IN+C+PYTHON+JAVA;BULKING+STUDY+GYM+RAT" alt="Typing SVG" />
   </a>
 </div>
 
