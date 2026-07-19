@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  System Online: Sup? I'm <a href="https://github.com/iprsnmsra" style="color: #39FF14; text-decoration: underline wavy;">Rakshit Raj</a>
+  System Online: Sup? I'm <a href="https://github.com/Deathdestruction09" style="color: #39FF14; text-decoration: underline wavy;">Rakshit Raj</a>
 </h1>
 
 <div align="center">
@@ -48,7 +48,7 @@
 
 <div align="center">
   <h3>🛠️ TECH Arsenal</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,Gemini,nodejs,STL,mongodb,vscode&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,react,nodejs,mongodb,vscode&perline=12&theme=dark" />
 </div>
 
 <div align="center">
@@ -89,24 +89,6 @@
 </div>
 
 <br />
-
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);">
-  <h3 style="margin-top: 0; color: #39FF14;">🏆 WINS WITH DEPLOYED INVENTIONS </h3>
-  <table width="100%" style="border: none;">
-    <tr>
-      <td width="50%" align="center" style="border: none;">
-        <strong>KESTREL AI</strong><br />
-        <em>HackSecure Hackathon Winner</em><br />
-        <span style="font-size: 12px; color: #8b949e;">Secure Threat Analysis Engine</span>
-      </td>
-      <td width="50%" align="center" style="border-left: 1px solid #30363d; border-right: none; border-top: none; border-bottom: none;">
-        <strong>TATA CAPITAL AGENT</strong><br />
-        <em>AI Prototype (EY Hackathon Finalist)</em><br />
-        <span style="font-size: 12px; color: #8b949e;">Agentic Financial Assistant</span>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br />
 
