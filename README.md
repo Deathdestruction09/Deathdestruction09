@@ -38,7 +38,7 @@
 <br />
 
 ### 🏋️ `Physical_State.log`
-* **Status:** 🟢 ** Phase**
+* **Status:** 🟢 ** Cutting Phase**
 * **Objective:** Live a good life
 * **Daily Routine:** Classes > Calorie > Create > Repeat
 
@@ -48,7 +48,7 @@
 
 <div align="center">
   <h3>🛠️ TECH Arsenal</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,react,nodejs,express,mongodb,unity,unreal,blender,vscode&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,react,nodejs,express,mongodb,vscode&perline=12&theme=dark" />
 </div>
 
 <div align="center">
@@ -74,14 +74,14 @@
 <div align="center">
   <h3>🏙️ SYSTEM ARCHITECTURE: 3D COMMIT CITY</h3>
   <p><i> My code contributions rendered as an isometric voxel world.</i></p>
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(57, 255, 20, 0.2);" />
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution City" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(57, 255, 20, 0.2);" />
 </div>
 
 <br />
 
 <div align="center">
   <h3>⚡ CONTRIBUTION ACTIVITY</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iprsnmsra&theme=react&bg_color=0D1117&hide_border=true&area=true&color=39FF14" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deathdestruction09&theme=react&bg_color=0D1117&hide_border=true&area=true&color=39FF14" width="100%" />
 </div>
 
 <div align="center">
@@ -112,16 +112,18 @@
 
 <div align="center">
   <h2 style="font-family: 'Georgia', serif; font-style: italic; color: #ffffff; letter-spacing: 1px;">
-    <h3><i>"Sometimes You Gotta Run Before You can Walk."</i></h3>
+    <h3><i>"The best way to predict the future is to create it on the chessboard"."</i></h3>
   </h2>
   
   <br />
-  <a href="https://www.linkedin.com/in/prasoon-mishra-798351327"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/iprsnmsra"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-  <a href="mailto:prasoonmishra9c@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rakshit-raj-31361133a/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/__rakshitttt"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="https://twitch.tv/Meatcomputer_"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch&logoColor=white"></a>
+  <a href="https://x.com/rakshit_4aj"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white"></a>
+  <a href="mailto:rakshitranesh1122@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=iprsnmsra&label=PROFILE+VIEWS&color=39FF14&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Deathdestruction09&label=PROFILE+VIEWS&color=39FF14&style=flat-square" alt="Profile Views" />
 </div>
 
 <div align="center">
