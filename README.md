@@ -81,14 +81,29 @@
 <br />
 
 <div align="center">
-  <h3>🎮 PLAY MY MINI GAME</h3>
-  <a href="https://Deathdestruction09.github.io/cyber-click-game/" target="_blank">
-    <img src="https://img.shields.io/badge/-Launch%20Cyber%20Game-39FF14?style=for-the-badge&logo=ghost&logoColor=black" alt="Launch Cyber Game" />
-  </a>
-  <p><i>Click in if you dare.</i></p>
+  <h3>🎧 HANDPICKED PLAYLISTS</h3>
+  <p><i>Curated fuel for focus, feels, and full-power sessions.</i></p>
 </div>
 
-<br />
+<table align="center" width="98%" style="border: none;">
+<tr>
+<td width="50%" valign="top" style="border: none;">
+
+### <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white" />
+- [Late Night Rotation](https://open.spotify.com/playlist/7dpwDH3wknuZEkkcDer4rV)
+- [Mood Switch Mix](https://open.spotify.com/playlist/5K18wwxkdPIBqBleHmIBOA)
+
+</td>
+
+<td width="50%" valign="top" style="border: none;">
+
+### <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
+- [Watchlist One](https://www.youtube.com/playlist?list=PLRXQynGd6yOydVO5gP6_4NdgEXM0FV-rv)
+- [Watchlist Two](https://www.youtube.com/playlist?list=PLRXQynGd6yOz2ZGiQIj61EsVwCm1SvbdD)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <h2 style="font-family: 'Georgia', serif; font-style: italic; color: #ffffff; letter-spacing: 1px;">
