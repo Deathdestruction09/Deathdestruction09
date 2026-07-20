@@ -107,7 +107,7 @@
 
 <div align="center">
 
-| <img src="./9f5edc36-eb4d-414a-8447-10514f2bc224-cover.png" width="18" alt="Spotify icon" /> Spotify | <img src="./YouTube_full-color_icon_(2017).svg.png" width="18" alt="YouTube icon" /> YouTube |
+| <img src="./9f5edc36-eb4d-414a-8447-10514f2bc224-cover.png" width="20" alt="Spotify icon" /> Spotify | <img src="./YouTube_full-color_icon_(2017).svg.png" width="18" alt="YouTube icon" /> YouTube |
 |---|---|
 | [Late Night Rotation](https://open.spotify.com/playlist/7dpwDH3wknuZEkkcDer4rV) | [Playlist One](https://www.youtube.com/playlist?list=PLRXQynGd6yOydVO5gP6_4NdgEXM0FV-rv) |
 | [Mood Switch Mix](https://open.spotify.com/playlist/5K18wwxkdPIBqBleHmIBOA) | [Playlist Two](https://www.youtube.com/playlist?list=PLRXQynGd6yOz2ZGiQIj61EsVwCm1SvbdD) |
