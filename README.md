@@ -96,6 +96,8 @@
 
 <br>
 
+<br>
+
 <div align="center">
   <h3>🎧 HANDPICKED PLAYLISTS</h3>
   <p><i>Fuel for coding sessions, night drives, gym reps, and overthinking at 2 a.m.</i></p>
@@ -103,7 +105,7 @@
 
 <div align="center">
 
-| Spotify | YouTube |
+| <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/social/spotify.svg" width="16" alt="Spotify icon" /> Spotify | <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/social/youtube.svg" width="16" alt="YouTube icon" /> YouTube |
 |---|---|
 | [Late Night Rotation](https://open.spotify.com/playlist/7dpwDH3wknuZEkkcDer4rV) | [Playlist One](https://www.youtube.com/playlist?list=PLRXQynGd6yOydVO5gP6_4NdgEXM0FV-rv) |
 | [Mood Switch Mix](https://open.spotify.com/playlist/5K18wwxkdPIBqBleHmIBOA) | [Playlist Two](https://www.youtube.com/playlist?list=PLRXQynGd6yOz2ZGiQIj61EsVwCm1SvbdD) |
