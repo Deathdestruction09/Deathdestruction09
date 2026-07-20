@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  System Online: Sup? I'm <a href="https://github.com/Deathdestruction09" style="color: #39FF14; text-decoration: underline wavy;">Rakshit Raj</a>
+  System Activated: Sup? I'm <a href="https://github.com/Deathdestruction09" style="color: #39FF14; text-decoration: underline wavy;">Rakshit Raj</a>
 </h1>
 
 <div align="center">
@@ -37,9 +37,9 @@
   
 <br />
 
-### 🏋️ `Physical_State.log`
-* **Status:** 🟢 ** Cutting Phase**
-* **Objective:** Live a good life
+### 🏋️ 'Some other stats`
+* **Status:** 🟢 ** Neutral**
+* **Objective:** Live/lead a good life
 * **Daily Routine:** Classes > Calorie > Create > Repeat
 
 </td>
