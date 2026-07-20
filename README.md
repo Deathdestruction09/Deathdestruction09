@@ -58,7 +58,7 @@
 
 <div align="center">
   <h3>🚀 FEATURED BUILDS</h3>
-  <p><i>Picked from your public repositories.</i></p>
+  <p><i>Picked from my public repositories.</i></p>
 </div>
 
 <p align="center">
