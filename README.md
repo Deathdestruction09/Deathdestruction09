@@ -74,7 +74,7 @@
   <a href="https://github.com/Deathdestruction09/yt-dlp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deathdestruction09&repo=yt-dlp&theme=chartreuse-dark&hide_border=true" alt="yt-dlp repo" />
   </a>
-  <a href="https://github.com/Deathdestruction09/Some-ML-Projects">
+  <a href="https://github.com/Deathdestruction09/Claude-code">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deathdestruction09&repo=Some-ML-Projects&theme=chartreuse-dark&hide_border=true" alt="Some ML Projects repo" />
   </a>
 </p>
@@ -119,6 +119,7 @@
     <li>Interested in AI/ML, software building, and practical coding.</li>
     <li>Likes games, cinema, fitness, and learning through projects.</li>
     <li>Prefers making things that are simple, useful, and actually run.</li>
+    <li>If not career focused you'll find me close to the nature.</li>
   </ul>
 </details>
 
