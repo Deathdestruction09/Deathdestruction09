@@ -96,8 +96,9 @@
 <br>
 
 <div align="center">
-  <h3>📈 CONTRIBUTION ACTIVITY</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deathdestruction09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=39FF14&line=39FF14&point=FFFFFF&title_color=39FF14" width="100%" alt="Contribution activity graph" />
+  <h3>🏙️ 3D COMMIT CITY</h3>
+  <p><i>My contribution history rendered like a digital skyline.</i></p>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City" />
 </div>
 
 <br>
