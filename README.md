@@ -63,21 +63,35 @@
 
 <p align="center">
   <a href="https://github.com/Deathdestruction09/n8n">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deathdestruction09&repo=n8n&theme=chartreuse-dark&hide_border=true" alt="n8n repo" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Deathdestruction09&repo=n8n&theme=chartreuse-dark&hide_border=true"
+      alt="n8n repo"
+    />
   </a>
   <a href="https://github.com/Deathdestruction09/stanford-cs-machine-learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deathdestruction09&repo=stanford-cs-machine-learning&theme=chartreuse-dark&hide_border=true" alt="stanford cs machine learning repo" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Deathdestruction09&repo=stanford-cs-machine-learning&theme=chartreuse-dark&hide_border=true"
+      alt="stanford cs machine learning repo"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Deathdestruction09/yt-dlp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deathdestruction09&repo=yt-dlp&theme=chartreuse-dark&hide_border=true" alt="yt-dlp repo" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Deathdestruction09&repo=yt-dlp&theme=chartreuse-dark&hide_border=true"
+      alt="yt-dlp repo"
+    />
   </a>
-  <a href="https://github.com/Deathdestruction09/Claude-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deathdestruction09&repo=Some-ML-Projects&theme=chartreuse-dark&hide_border=true" alt="Some ML Projects repo" />
+  <a href="https://github.com/Deathdestruction09/Some-ML-Projects">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Deathdestruction09&repo=Some-ML-Projects&theme=chartreuse-dark&hide_border=true"
+      alt="Some ML Projects repo"
+    />
   </a>
 </p>
+
+<br>
 
 <br>
 
