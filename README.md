@@ -103,16 +103,6 @@
 
 <br>
 
-<div align="center">
-  <h3>🏙️ 3D COMMIT CITY</h3>
-  <p><i>My contribution history rendered like a digital skyline.</i></p>
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution City" />
-</div>
-
-<br>
-
-<br>
-
 <br>
 
 <div align="center">
