@@ -42,12 +42,12 @@
 </div>
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Deathdestruction09&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&custom_title=Rakshit's%20GitHub%20Stats"
-    alt="Rakshit's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Deathdestruction09&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=8"
+    alt="GitHub Stats"
     width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathdestruction09&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=8&langs_count=8&custom_title=Most%20Used%20Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathdestruction09&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=8&langs_count=8"
     alt="Top Languages"
     width="49%"
   />
