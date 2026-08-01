@@ -77,7 +77,7 @@
 <br>
 
 <div align="center">
-  <h3>⚙ CURRENT SIGNAL</h3>
+  <h3>⚙ CURRENT WORK</h3>
   <p><i>Currently focused on DSA, Java/C++ problem solving, AI/ML foundations, and building projects that look clean and work properly.</i></p>
 </div>
 
