@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave" />
-  System Activated: Sup? I'm <a href="https://github.com/Deathdestruction09">Rakshit Raj</a>
+  Hey! This is <a href="https://github.com/Deathdestruction09">Rakshit Raj</a>
 </h1>
 
 <p align="center">
