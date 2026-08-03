@@ -35,32 +35,37 @@
 </div>
 
 <br>
+
 <!-- REAL-TIME GITHUB STATS START -->
 <div align="center">
   <h3>📊 SYSTEM METRICS</h3>
   <p><i>Live telemetry from my GitHub account. Updates automatically.</i></p>
 </div>
+
 <div align="center">
+  <!-- Main stats card -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Deathdestruction09&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=8"
+    src="https://github-readme-stats.vercel.app/api?username=Deathdestruction09&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true"
     alt="GitHub Stats"
     width="49%"
   />
+  <!-- Top languages card -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathdestruction09&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=8&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathdestruction09&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8"
     alt="Top Languages"
     width="49%"
   />
 </div>
+
 <div align="center">
+  <!-- Streak stats card -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Deathdestruction09&theme=chartreuse-dark&hide_border=true&border_radius=8"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Deathdestruction09&theme=chartreuse-dark&hide_border=true"
     alt="GitHub Streak"
     width="70%"
   />
 </div>
 <!-- REAL-TIME GITHUB STATS END -->
-
 
 <div align="center">
   <h3>🛠️ STACK</h3>
