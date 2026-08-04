@@ -43,19 +43,19 @@
 </div>
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Deathdestruction09&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=8"
+    src="https://github-readme-stats.vercel.app/api?username=Deathdestruction09&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=8&cache_seconds=7200"
     alt="GitHub Stats"
     width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathdestruction09&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=8&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathdestruction09&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=8&langs_count=8&cache_seconds=7200"
     alt="Top Languages"
     width="49%"
   />
 </div>
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Deathdestruction09&theme=chartreuse-dark&hide_border=true&border_radius=8"
+    src="https://streak-stats.demolab.com?user=Deathdestruction09&theme=chartreuse-dark&hide_border=true&border_radius=8"
     alt="GitHub Streak"
     width="70%"
   />
