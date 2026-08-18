@@ -36,32 +36,43 @@
 
 <br>
 
-<!-- REAL-TIME GITHUB STATS START -->
+<!-- SYSTEM METRICS START -->
 <div align="center">
-  <h3>📊 SYSTEM METRICS</h3>
-  <p><i>Live telemetry from my GitHub account. Updates automatically.</i></p>
-</div>
-<div align="center">
+
+<h3>📊 SYSTEM METRICS</h3>
+
+<p>
+  <i>Live telemetry from my GitHub account. Updates automatically.</i>
+</p>
+
+<a href="https://github.com/Deathdestruction09">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Deathdestruction09&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=8&cache_seconds=7200"
-    alt="GitHub Stats"
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Deathdestruction09&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Rakshit Raj's GitHub Stats"
+    width="48%"
   />
+</a>
+
+<a href="https://github.com/Deathdestruction09">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathdestruction09&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=8&langs_count=8&cache_seconds=7200"
-    alt="Top Languages"
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deathdestruction09&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8"
+    alt="Top Programming Languages"
+    width="48%"
   />
-</div>
-<div align="center">
+</a>
+
+<br><br>
+
+<a href="https://github.com/Deathdestruction09">
   <img
-    src="https://streak-stats.demolab.com?user=Deathdestruction09&theme=chartreuse-dark&hide_border=true&border_radius=8"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=Deathdestruction09&theme=chartreuse-dark&hide_border=true"
+    alt="GitHub Contribution Streak"
     width="70%"
   />
-</div>
-<!-- REAL-TIME GITHUB STATS END -->
+</a>
 
+</div>
+<!-- SYSTEM METRICS END -->
 
 <div align="center">
   <h3>🛠️ STACK</h3>
