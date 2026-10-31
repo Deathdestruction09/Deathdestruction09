@@ -184,8 +184,9 @@
 <div align="center">
   <h3>📡 PROFILE VIEWS</h3>
   <p>
-    <img src="./profile-views-banner.jpg" width="420" alt="Profile views banner" align="middle" />
-    <img src="https://komarev.com/ghpvc/?username=Deathdestruction09&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" alt="Profile Views counter" align="middle" />
+    <img src="./profile-views-card.jpg" width="560" alt="Cue card reading: Profile view counter. Hey visitor, you are visitor number, see below" />
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=Deathdestruction09&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" alt="Profile Views counter" />
   </p>
 </div>
 
