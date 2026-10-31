@@ -184,7 +184,7 @@
 <div align="center">
   <h3>📡 PROFILE VIEWS</h3>
   <p>
-    <img src="./operator-views.svg" width="420" alt="A hooded operator with a glowing green visor holding an intel report card: profile views logged so far" align="middle" />
+    <img src="./profile-views-banner.jpg" width="420" alt="Profile views banner" align="middle" />
     <img src="https://komarev.com/ghpvc/?username=Deathdestruction09&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" alt="Profile Views counter" align="middle" />
   </p>
 </div>
