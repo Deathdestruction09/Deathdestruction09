@@ -1,5 +1,4 @@
-
- <!-- DO NOT COPY INSPIRE -->
+<!-- DO NOT COPY INSPIRE -->
 <div align="center">
   <img src="1cfb3935b69af0a2c745e08123cc6d12.gif" width="100%" alt="Cyberpunk Header" />
 </div>
@@ -20,19 +19,6 @@
       alt="Typing SVG"
     />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-
-| `PROFILE SIGNAL` | `CURRENT STATE` |
-|---|---|
-| **Core Areas**: Mathematics, DSA, Data Science | **Status**: Learning, building, improving |
-| **Languages**: C, C++, Java, Python | **Current Mission**: Strong projects + stronger fundamentals |
-| **Web Stack**: React, Node.js, MongoDB, GitHub Pages | **Routine**: Classes > Code > Gym > Repeat |
-| **Focus**: Practical problem solving and real skill growth | **Mindset**: Calm grind, sharp intent |
-
 </div>
 
 <br>
@@ -191,10 +177,16 @@
   <a href="mailto:rakshitranesh1122@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
 
-  <br><br>
+<br>
 
-  <img src="https://komarev.com/ghpvc/?username=Deathdestruction09&label=PROFILE+VIEWS&color=39FF14&style=flat-square" alt="Profile Views" />
+<div align="center">
+  <h3>📡 PROFILE VIEWS</h3>
+  <p>
+    <img src="./operator-views.svg" width="420" alt="A hooded operator with a glowing green visor holding an intel report card: profile views logged so far" align="middle" />
+    <img src="https://komarev.com/ghpvc/?username=Deathdestruction09&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" alt="Profile Views counter" align="middle" />
+  </p>
 </div>
 
 <br>
